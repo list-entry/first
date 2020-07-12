@@ -1,1 +1,2 @@
-hello this is a readme.txt
+git is a distributed version control system.
+git is free software
